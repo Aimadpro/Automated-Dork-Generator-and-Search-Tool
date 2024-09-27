@@ -4,10 +4,15 @@ DorkFinder es una herramienta automatizada para realizar búsquedas avanzadas (d
 
 Características
 🌐 Búsquedas Automatizadas: Realiza búsquedas avanzadas en motores como DuckDuckGo usando dorks.
+
 🤖 Generación de Dorks con IA: Genera dorks automáticamente usando GPT-4 de OpenAI o GPT4All local.
+
 📄 Descarga de Archivos: Filtra y descarga archivos automáticamente de las búsquedas realizadas.
+
 📋 Exportación de Resultados: Exporta los resultados de las búsquedas en formatos JSON y HTML.
+
 🔧 Configuración Personalizada: Permite configurar claves de API y ajustes de búsqueda a través de un archivo .env.
+
 Parámetros disponibles
 -q o --query: La consulta que deseas ejecutar.
 -c o --configure: Configura o actualiza el archivo .env con las claves de API.
